@@ -1,0 +1,7 @@
+Hetaf Almazroa
+
+Role: Project Leader
+
+Development: Homepage, Signup, and Login pages.
+
+Design: UX/UI Reviewer & Quality Assurance.
